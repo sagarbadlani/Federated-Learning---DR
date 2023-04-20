@@ -1,2 +1,2 @@
-# Federated-Learning---DR
+# Federated_Learning_Diabetic_Retinopathy
 Diabetic Retinopathy Detection using Federated Learning
